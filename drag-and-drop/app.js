@@ -1,5 +1,5 @@
 const king = document.querySelector(".chess-piece");
-const squares = document.querySelectorAll(".squre");
+const squares = document.querySelectorAll(".sqaure");
 
 king.addEventListener("dragstart", dragStart);
 
@@ -16,6 +16,6 @@ function dragStart(e) {
 function dragOver(e) {
   e.preventDefault();
 }
-function dargDrop(e) {
+function dragDrop(e) {
   console.log(e.target);
 }
