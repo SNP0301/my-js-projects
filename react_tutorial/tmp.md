@@ -1,4 +1,6 @@
 ## 0. 핵심은 재사용.
 
-## 1. function or class
-- 이 강의에서는 function
+## 1. basic
+- Controller - Service - Repo - DB
+- list generic으로 타입 챙길 수 있고
+- 
